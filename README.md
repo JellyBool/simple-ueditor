@@ -4,7 +4,7 @@
 
 ##效果
 
-![simple-ueditor](https://cloud.githubusercontent.com/assets/6011686/21227866/98cbd5f4-c316-11e6-90bd-63c098cb4a71.png)
+![simple-ueditor](https://cloud.githubusercontent.com/assets/6011686/21228553/38bf2fdc-c319-11e6-9b6d-5de223bc9989.png)
 
 ## 使用
 1. clone 代码
